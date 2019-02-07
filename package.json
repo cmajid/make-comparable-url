@@ -1,0 +1,21 @@
+{
+  "name": "make-comparable-url",
+  "version": "1.0.3",
+  "description": "Make your url for compare with another url, remove https,http,/,spaces and more ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "compare",
+    "nodejs",
+    "node"
+  ],
+  "author": "Majid Shahmohammadi",
+  "license": "ISC",
+  "dependencies": {
+    "unescape": "^1.0.1",
+    "urldecode": "^1.0.1"
+  }
+}
